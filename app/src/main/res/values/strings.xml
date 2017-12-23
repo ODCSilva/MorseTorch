@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Morse Torch</string>
+    <string name="translate">Translate…</string>
+    <string name="message_hint">Enter a message</string>
+</resources>
