@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+        <SeekBarPreference
+            android:defaultValue="120"
+            android:key="pref_key_dot_interval"
+            android:summary="Dot interval in milliseconds"
+            android:title="Dot interval"
+            android:numeric="integer"/>
+
+
+</PreferenceScreen>

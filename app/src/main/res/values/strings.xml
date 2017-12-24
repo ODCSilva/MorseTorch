@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Morse Torch</string>
-    <string name="translate">Translate…</string>
-    <string name="message_hint">Enter a message</string>
+    <string name="translate">Translate</string>
+    <string name="message_hint">Enter text to translate</string>
+    <string name="pref_cat_general">General</string>
+
+    <string name="menu_settings">Settings</string>
 </resources>

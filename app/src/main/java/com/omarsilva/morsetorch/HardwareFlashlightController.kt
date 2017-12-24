@@ -4,7 +4,7 @@ import android.hardware.camera2.CameraCharacteristics
 import android.hardware.camera2.CameraManager
 import com.omarsilva.morsetorch.HardwareFlashlightController.FlashlightState.OFF
 import com.omarsilva.morsetorch.HardwareFlashlightController.FlashlightState.ON
-import com.omarsilva.morsetorch.interfaces.Flashlight
+import com.omarsilva.morsetorch.`interface`.Flashlight
 
 
 class HardwareFlashlightController constructor(private val cameraManager: CameraManager) : Flashlight {

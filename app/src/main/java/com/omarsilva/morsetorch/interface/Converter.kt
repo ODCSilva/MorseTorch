@@ -1,4 +1,4 @@
-package com.omarsilva.morsetorch.interfaces
+package com.omarsilva.morsetorch.`interface`
 
 
 interface Converter {

@@ -1,6 +1,6 @@
 package com.omarsilva.morsetorch
 
-import com.omarsilva.morsetorch.interfaces.Converter
+import com.omarsilva.morsetorch.`interface`.Converter
 
 class EnglishToMorseConverter : Converter {
 

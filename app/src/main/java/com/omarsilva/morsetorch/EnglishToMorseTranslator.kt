@@ -1,9 +1,9 @@
 package com.omarsilva.morsetorch
 
 import android.arch.lifecycle.LifecycleObserver
-import com.omarsilva.morsetorch.interfaces.Converter
-import com.omarsilva.morsetorch.interfaces.Flashlight
-import com.omarsilva.morsetorch.interfaces.Translator
+import com.omarsilva.morsetorch.`interface`.Converter
+import com.omarsilva.morsetorch.`interface`.Flashlight
+import com.omarsilva.morsetorch.`interface`.Translator
 import io.reactivex.Observable
 import io.reactivex.ObservableEmitter
 import io.reactivex.android.schedulers.AndroidSchedulers
